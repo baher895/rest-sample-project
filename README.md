@@ -393,6 +393,16 @@ Failure Respond:
     error
   }
 }
+```
+
+- /productImage/:id
+```
+Action: GET
+Authentication: Not required
+Body: None
+Respond: Image
+```
+
 
 [Go 2 Top ^](#top)
 
