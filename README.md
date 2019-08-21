@@ -132,9 +132,7 @@ Success Respond:
   statusCode: 201,
   message: "Succeed!",
   data: {
-    user: {
-      ...savedUser._doc
-    }
+    user
   }
 }
 Failure Respond:
